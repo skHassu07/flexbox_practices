@@ -4,9 +4,10 @@
     background-color: azure;
     margin: 10px auto;
     border: 2px solid black;
+    
 
     display: flex; 
-    
+}
     /* jaise hi mene ise display flex kiya toh sara ke sare elements ab container ke under aayenge */
     /* As soon as I made it display flex, all the elements will now come under the container */
     /* By using display: flex, our direction stays 'row' by default */  
@@ -66,6 +67,8 @@
 .org{
     align-self: flex-start; 
     flex-basis:300px;
+
+    
 
 }           
 
