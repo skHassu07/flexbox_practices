@@ -28,7 +28,7 @@
         /*justify-content: space-between;  /*items are evenly distributed in the line; first item is on the start line, last item on the end line */
         /*justify-content: space-around;  items are evenly distributed in the line with equal space around them */
         /*justify-content: space-evenly;  /*items are distributed so that the spacing between any two items (and the space to the edges) is equal */
-        justify-content: flex-start;  /*items are distributed so that the spacing between any two items (and the space to the edges) is equal */
+        justify-content: flex-end;  /*items are distributed so that the spacing between any two items (and the space to the edges) is equal */
 
     /* flex-wrap */
         /* By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property */
