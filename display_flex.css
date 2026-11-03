@@ -55,7 +55,7 @@
         /* align-content: space-around;  /*cross-axis, items are evenly distributed in the flex */
         /* align-content: space-evenly;  /*cross-axis, items are distributed so that the spacing between any two items (and the space to the edges) is equal */
         /* align-content:baseline;  cross-axis, items are aligned such as their baselines align */ */
-        align-content:flex-start;  /*cross-axis, items are packed toward the start of the flex-direction */
+        align-content:flex-evenly;  /*cross-axis, items are packed toward the start of the flex-direction */
 
     /* align-self */
         /* aligns an item along the cross axis, 
