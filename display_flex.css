@@ -38,6 +38,7 @@
         /*flex-wrap: wrap;  flex items will wrap onto multiple lines, from top to bottom. */
         flex-wrap: wrap;  /*flex items will wrap onto multiple lines from bottom to top. */
 
+
     /* align-items */
      /* center;  /*align-items: flex-start;  cross-axis, items are placed at the start of the container */
     align-items: flex-start;  /*cross-axis, items are placed at the start of the container */
